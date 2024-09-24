@@ -1,13 +1,13 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\5 сем\\javafx-sdk-22.0.2\\lib\\javafx.base.jar",
-        "c:\\5 сем\\javafx-sdk-22.0.2\\lib\\javafx.controls.jar",
-        "c:\\5 сем\\javafx-sdk-22.0.2\\lib\\javafx.fxml.jar",
-        "c:\\5 сем\\javafx-sdk-22.0.2\\lib\\javafx.graphics.jar",
-        "c:\\5 сем\\javafx-sdk-22.0.2\\lib\\javafx.media.jar",
-        "c:\\5 сем\\javafx-sdk-22.0.2\\lib\\javafx.swing.jar",
-        "c:\\5 сем\\javafx-sdk-22.0.2\\lib\\javafx.web.jar",
-        "c:\\5 сем\\javafx-sdk-22.0.2\\lib\\javafx-swt.jar"
+        "c:\\cem5\\javafx-sdk-22.0.2\\lib\\javafx.base.jar",
+        "c:\\cem5\\javafx-sdk-22.0.2\\lib\\javafx.controls.jar",
+        "c:\\cem5\\javafx-sdk-22.0.2\\lib\\javafx.fxml.jar",
+        "c:\\cem5\\javafx-sdk-22.0.2\\lib\\javafx.graphics.jar",
+        "c:\\cem5\\javafx-sdk-22.0.2\\lib\\javafx.media.jar",
+        "c:\\cem5\\javafx-sdk-22.0.2\\lib\\javafx.swing.jar",
+        "c:\\cem5\\javafx-sdk-22.0.2\\lib\\javafx.web.jar",
+        "c:\\cem5\\javafx-sdk-22.0.2\\lib\\javafx-swt.jar"
     ]
 }

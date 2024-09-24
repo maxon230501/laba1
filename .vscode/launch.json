@@ -17,7 +17,7 @@
             "request": "launch",
             "mainClass": "demo.parallel.Main",
             "projectName": "laba1_d31f118",
-            "vmArgs": "--module-path \"C:/5 сем/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path \"C:/cem5/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
         }
     ]
 }
